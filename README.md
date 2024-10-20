@@ -1,5 +1,8 @@
 # Pin Drop with Remarks
 
+https://www.loom.com/share/463aa254895c4f54975efacb78fe1b36
+
+
 ## Overview
 
 Pin Drop with Remarks is a user-friendly web application that allows users to interact with a map interface, drop pins at specific locations, add remarks, and automatically fetch addresses for those locations. This tool is perfect for personal travel planning, location bookmarking, or any scenario where you need to keep track of multiple locations with custom notes.
